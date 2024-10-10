@@ -2,4 +2,4 @@
 
 A legitimate contribution to become a contributer of repo.
 
-can be even a typo fix
+can be even a typo fix.
